@@ -1,6 +1,6 @@
-# Earth Science Repository
+# ML-GEO24-WendyHo Repository
 
-Welcome to the Earth Science Repository! This project includes various resources and notebooks related to Earth Science topics.
+Welcome to the ML-GEO24-WendyHo Repository! This project includes various resources and notebooks related to Earth Science topics.
 
 ## Installation
 
@@ -13,7 +13,7 @@ To get started with this repository, follow these steps:
        cd ML-GEO24-WendyHo
      # Create and activate the conda environment:
        conda env create -f environment.yml
-       conda activate earth-science-env
+       conda activate ML-GEO24-WendyHo-env
 ```
 ## Running the Notebook
 
