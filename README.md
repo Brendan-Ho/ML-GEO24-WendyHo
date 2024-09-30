@@ -12,8 +12,8 @@ To get started with this repository, follow these steps:
      # Navigate to the project directory:
        cd ML-GEO24-WendyHo
      # Create and activate the conda environment:
-       conda env create -f environment.yml
-       conda activate ML-GEO24-WendyHo-env
+       conda create --name ML-GEO24-WendyHo
+       conda activate ML-GEO24-WendyHo
 ```
 ## Running the Notebook
 
