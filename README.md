@@ -17,7 +17,7 @@ To get started with this repository, follow these steps:
 ```
 ## Running the Notebook
 
-  To run the Jupyter notebooks, execute the following command in your terminal:
+  To run the Jupyter notebook, execute the following command in your terminal:
 
 ```bash
   jupyter notebook
