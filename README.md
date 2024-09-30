@@ -8,7 +8,7 @@ To get started with this repository, follow these steps:
 
    ```bash
      # Clone the repository:
-       git clone https://github.com/Brendan-Ho/ML-GEO24-WendyHo-repo.git
+       git clone https://github.com/Brendan-Ho/ML-GEO24-WendyHo.git
      # Navigate to the project directory:
        cd earth-science-repo
      # Create and activate the conda environment:
